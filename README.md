@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular & Typescript**
 
-- 📫 How to reach me **anjali.ckpatidar@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/anjalicpatidar/**
 
 - ⚡ Fun fact **I think I am hilarious**
 
