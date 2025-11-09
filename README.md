@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patidaranjali&label=Profile%20views&color=0e75b6&style=flat" alt="patidaranjali" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patidaranjali" alt="patidaranjali" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=patidaranjali" alt="patidaranjali" /></a> </p> -->
 
-- 🌱 I’m currently learning **Angular & Typescript**
+- I’m currently learning about **AI & Machine Learning**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anjalicpatidar/**
+- You can reach me at: **https://www.linkedin.com/in/anjalicpatidar/**
 
-- ⚡ Fun fact **I think I am hilarious**
+- Fun fact: **I think I am hilarious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
