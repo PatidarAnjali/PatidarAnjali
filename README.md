@@ -9,7 +9,7 @@
 
 - You can reach me at: **https://www.linkedin.com/in/anjalicpatidar/**
 
-- Fun fact: **I can curl… not just biceps, but also {}**
+- Fun fact: **I have never broken a bone, yet**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
