@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=patidaranjali&label=Profile%20views&color=0e75b6&style=flat" alt="patidaranjali" /> 
 </p>
 
-- 🌱 I'm currently learning about **AI & Machine Learning**
-- 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
+- I'm currently learning about **AI & Machine Learning**
+- Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
 
 ---
 
