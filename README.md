@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Anjali</h1>
 <h3 align="center">An Aspiring Software Engineer</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patidaranjali&label=Profile%20views&color=0e75b6&style=flat" alt="patidaranjali" /> 
-</p>
+</p> -->
 
-- I'm currently learning about **AI & Machine Learning**
+I am a second year computer science student at UofT, where I am doing a software engineering specialist with a minor in statistics. Other than that, I am a TA for CSCA48 (Intro to computer science II) at UTSC :). 
+
 - Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
 
 ---
