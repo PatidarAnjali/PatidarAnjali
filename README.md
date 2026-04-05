@@ -8,6 +8,8 @@
 I'm a 2nd year computer science student at UofT, where I am doing a software engineering specialist and also working as TA for CSCA48 (Intro to computer science II) at UTSC :)
 
 - Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
+  
+<!--
 
 ---
 
@@ -18,3 +20,5 @@ I'm a 2nd year computer science student at UofT, where I am doing a software eng
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,sass,nodejs,express,java,mongodb" />
   </a>
 </p>
+
+-->
