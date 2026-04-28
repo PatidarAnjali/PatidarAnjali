@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=patidaranjali&label=Profile%20views&color=0e75b6&style=flat" alt="patidaranjali" /> 
 </p> -->
 
-I'm a 2nd year computer science student at UofT, where I am doing a software engineering specialist and also working as TA for CSCA48 (Intro to computer science II) at UTSC :)
+I'm a 2nd year computer science student at UofT, where I am doing a software engineering specialist :)
 
 - Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
   
