@@ -7,7 +7,7 @@
 
 I'm a 3rd year computer science student at UofT, where I am doing a software engineering specialist :)
 
-What I do: TA @ UofT, Incoming @ Amazon, President of CSEC club
+What I do: TA @ UofT, SDE intern @ Amazon, President of CSEC club
 
 - Reach me at: **[LinkedIn](https://www.linkedin.com/in/anjalicpatidar/)**
   
